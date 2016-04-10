@@ -12,5 +12,7 @@ int main(int argc,char** argv)
 	
 	//add in gui
 	
+	//add in testgit2
+	
 	return 0;
 }
