@@ -10,6 +10,7 @@ int main(int argc,char** argv)
 	
 	//add in 'master again'
 	
+	//add in gui
 	
 	return 0;
 }
